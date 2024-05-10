@@ -1,0 +1,138 @@
+MSH.1,Field Separator,|
+MSH.2,Encoding Characters,^\&#
+MSH.3,Sending Application,OEMR
+MSH.4,Sending Facility,GWSH
+MSH.5,Receiving Application,LIS
+MSH.6,Receiving Facility,GWSH
+MSH.7,Date/Time Of Message,20240506062025
+MSH.8,Security,
+MSH.9.1,Message Code,ADT
+MSH.9.2,Trigger Event,A01
+MSH.9.3,Message Structure,ADT_A01
+MSH.10,Message Control Id,o8PHKXrHX2
+MSH.11,Processing Id,T
+MSH.12,Version Id,2.8
+EVN.1,Event Type Code,
+EVN.2,Recorded Date/Time,20240506062025
+PID.1,Set Id - Pid,
+PID.2,Patient Id,
+PID.3.1,Id Number,MRN-187486632
+PID.3.2,Identifier Check Digit,
+PID.3.3,Check Digit Scheme,
+PID.3.4,Assigning Authority,SSA
+PID.3.5,Identifier Type Code,SS~240-506-0608
+PID.3.6,Assigning Facility,
+PID.3.7,Effective Date,
+PID.3.8,Expiration Date,GWSH
+PID.3.9,Assigning Jurisdiction,MR
+PID.4,Alternate Patient Id - Pid,
+PID.5.1,Family Name,Delgado
+PID.5.2,Given Name,Robert
+PID.5.3,Second And Further Given Names Or Initials Thereof,N
+PID.5.4,"Suffix (e.g., Jr Or Iii)",
+PID.5.5,"Prefix (e.g., Dr)",Mr
+PID.5.6,"Degree (e.g., Md)",
+PID.5.7,Name Type Code,R
+PID.6,Mother's Maiden Name,Baldwin
+PID.7,Date/Time Of Birth,19860131
+PID.8.1,Identifier,M
+PID.8.2,Text,Male
+PID.8.3,Name Of Coding System,HL70001
+PID.9,Patient Alias,
+PID.10.1,Identifier,2106-3
+PID.10.2,Text,White
+PID.10.3,Name Of Coding System,HL70005
+PID.11.1,Street Address,4357 Michigan Avenue
+PID.11.2,Other Designation,
+PID.11.3,City,Pittsburgh
+PID.11.4,State Or Province,PA
+PID.11.5,Zip Or Postal Code,USA
+PID.11.6,Country,USA
+PID.11.7,Address Type,H
+PID.12,County Code,
+PID.13,Phone Number - Home,
+PID.14,Phone Number - Business,
+PID.15.1,Identifier,eng
+PID.15.2,Text,English
+PID.15.3,Name Of Coding System,iso639-2
+PID.16.1,Identifier,M
+PID.16.2,Text,Married
+PID.16.3,Name Of Coding System,HL70002
+PID.17.1,Identifier,COT
+PID.17.2,Text,Christian: Other
+PID.17.3,Name Of Coding System,HL70006
+PID.18,Patient Account Number,
+PID.19,Ssn Number - Patient,
+PID.20,Driver's License Number - Patient,
+PID.21,Mother's Identifier,
+PID.22,Ethnic Group,
+PID.23,Birth Place,
+PID.24,Multiple Birth Indicator,
+PID.25,Birth Order,
+PID.26,Citizenship,
+PID.27,Veterans Military Status,
+PID.28,Nationality,
+PID.29,Patient Death Date And Time,
+PID.30,Patient Death Indicator,
+PID.31,Identity Unknown Indicator,
+PID.32,Identity Reliability Code,
+PID.33,Last Update Date/Time,
+PID.34,Last Update Facility,
+PID.35,Taxonomic Classification Code,
+PID.36,Breed Code,
+PID.37,Strain,
+PID.38,Production Class Code,
+PID.39,Tribal Citizenship,
+PID.40.1,Telephone Number,
+PID.40.2,Telecommunication Use Code,PRS
+PID.40.3,Telecommunication Equipment Type,CP
+PID.40.4,Communication Address,
+PID.40.5,Country Code,
+PID.40.6,Area/City Code,
+PID.40.7,Local Number,724-607-6638~
+PID.40.8,Extension,NET
+PID.40.9,Any Text,X.400
+PID.40.10,Extension Prefix,
+PID.40.11,Speed Dial Code,RobertNDelgado@teleworm.us
+PV1.1,Set Id - Pv1,
+PV1.2.1,Identifier,O
+PV1.2.2,Text,Outpatient
+PV1.2.3,Name Of Coding System,HL70004
+PV1.3,Assigned Patient Location,
+PV1.4,Admission Type,
+PV1.5,Preadmit Number,
+PV1.6,Prior Patient Location,
+PV1.7.1,Person Identifier,1478523690
+PV1.7.2,Family Name,K
+PV1.7.3,Given Name,Siddharth
+PV1.7.4,Second And Further Given Names Or Initials Thereof,R
+PV1.7.5,"Suffix (e.g., Jr Or Iii)",
+PV1.7.6,"Prefix (e.g., Dr)",
+PV1.7.7,"Degree (e.g., Md)",
+PV1.7.8,Source Table,
+PV1.7.9,Assigning Authority,NPPES
+PV1.7.10,Name Type Code,
+PV1.7.11,Identifier Check Digit,
+PV1.7.12,Check Digit Scheme,
+PV1.7.13,Identifier Type Code,NPI
+PV1.8,Referring Doctor,
+PV1.9,Consulting Doctor,
+PV1.10.1,Identifier,NP1529
+PV1.10.2,Text,New Patient - 15 - 29 Min
+PV1.10.3,Name Of Coding System,L
+PV1.11,Temporary Location,
+PV1.12,Preadmit Test Indicator,
+PV1.13,Re-admission Indicator,
+PV1.14,Admit Source,
+PV1.15,Ambulatory Status,
+PV1.16,Vip Indicator,
+PV1.17,Admitting Doctor,
+PV1.18.1,Identifier,NP
+PV1.18.2,Text,New Patient
+PV1.18.3,Name Of Coding System,L
+PV1.19.1,Id Number,4
+PV1.19.2,Identifier Check Digit,
+PV1.19.3,Check Digit Scheme,
+PV1.19.4,Assigning Authority,
+PV1.19.5,Identifier Type Code,VN
+
