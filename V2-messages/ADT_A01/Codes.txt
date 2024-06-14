@@ -1,0 +1,10 @@
+Visit Category:
+===============
+Code	Description
+----	-----------------------------------
+5 	Office Visit
+9 	Established Patient
+10 	New Patient
+12	Health and Behavioral Assessment
+13	Preventive Care Services
+14 	Ophthalmological Services

@@ -1,8 +1,8 @@
 MSH|^~\&|OEMR|HGH|V2_to_FHIR|HGH|20240605022432||ADT^A04^ADT_A01|1717554272985|T|2.8
 EVN||20240605022432||1^Patient Request||20240605|HGH^Hope General Hospital
 PID|||GWSH-BLR-2404281842^^^HGH^MR~20142988294^^^SSA^SS||Cahill^Merrill^C^^Mr.|Todd|19710826|||^|2055 MELODY LANE^^RICHMOND^VT^23225^USA||^NET^X.400^MerrillCCahill@teleworm.us||EN^English|M^married|
-PV1||O^Outpatient^HL70004|||||1478523690^K^Carl^R^Hope^^^^NPPES^^^^NPI|||NP1529^New Patient - 15 - 29 Min^L||||||||NP^New Patient^L|4^^^^VN
+PV1||O^Outpatient^HL70004|||||1478523690^K^Carl^R^Hope^^^^NPPES^^^^NPI|||NP1529^New Patient - 15 - 29 Min^L||||||||10^New Patient^L|4^^^^VN
 AL1|1|DA|PEN^Penicillin|SV
-DG1|1||786.50^Chest Pain^ICD-10||||
-OBX|2|TX|Condition|2|Diabetes mellitus without complications
-OBX|3|TX|Medication|3|Metformin
+DG1|1||R07.9^Chest Pain Unspecified^I10||||
+OBX|1|TX|Condition|2|Diabetes mellitus without complications
+OBX|2|TX|Medication|3|Metformin
