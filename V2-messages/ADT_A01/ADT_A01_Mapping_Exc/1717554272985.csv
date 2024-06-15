@@ -1,0 +1,138 @@
+MSH.1,Field Separator,|
+MSH.2,Encoding Characters,^~\&
+MSH.3,Sending Application,OEMR
+MSH.4,Sending Facility,HGH
+MSH.5,Receiving Application,V2_to_FHIR
+MSH.6,Receiving Facility,HGH
+MSH.7,Date/Time Of Message,20240605022432
+MSH.8,Security,
+MSH.9.1,Message Code,ADT
+MSH.9.2,Trigger Event,A01
+MSH.9.3,Message Structure,ADT_A01
+MSH.10,Message Control Id,1717554272985
+MSH.11,Processing Id,T
+MSH.12,Version Id,2.8
+EVN.1,Event Type Code,
+EVN.2,Recorded Date/Time,20240605022432
+EVN.3,Date/Time Planned Event,
+EVN.4,Event Reason Code,01
+EVN.5,Operator Id,
+EVN.6,Event Occurred,20240605
+EVN.7.1,Namespace Id,HGH
+EVN.7.2,Universal Id,Hope General Hospital
+PID.1,Set Id - Pid,
+PID.2,Patient Id,
+PID.3.1,Id Number,GWSH-BLR-2404281842
+PID.3.2,Identifier Check Digit,
+PID.3.3,Check Digit Scheme,
+PID.3.4,Assigning Authority,HGH
+PID.3.5,Identifier Type Code,MR
+PID.3.1,Id Number,20142988294
+PID.3.2,Identifier Check Digit,
+PID.3.3,Check Digit Scheme,
+PID.3.4,Assigning Authority,SSA
+PID.3.5,Identifier Type Code,SS
+PID.4,Alternate Patient Id - Pid,
+PID.5.1,Family Name,Cahill
+PID.5.2,Given Name,Merrill
+PID.5.3,Second And Further Given Names Or Initials Thereof,C
+PID.5.4,"Suffix (e.g., Jr Or Iii)",
+PID.5.5,"Prefix (e.g., Dr)",Mr.
+PID.6,Mother's Maiden Name,Todd
+PID.7,Date/Time Of Birth,19710826
+PID.8,Administrative Sex,
+PID.9,Patient Alias,
+PID.10.1,Identifier,
+PID.10.2,Text,
+PID.11.1,Street Address,2055 MELODY LANE
+PID.11.2,Other Designation,
+PID.11.3,City,RICHMOND
+PID.11.4,State Or Province,VT
+PID.11.5,Zip Or Postal Code,23225
+PID.11.6,Country,USA
+PID.12,County Code,
+PID.13.1,Telephone Number,
+PID.13.2,Telecommunication Use Code,NET
+PID.13.3,Telecommunication Equipment Type,X.400
+PID.13.4,Communication Address,MerrillCCahill@teleworm.us
+PID.14,Phone Number - Business,
+PID.15.1,Identifier,EN
+PID.15.2,Text,English
+PID.16.1,Identifier,M
+PID.16.2,Text,married
+PID.17,Religion,
+PV1.1,Set Id - Pv1,
+PV1.2.1,Identifier,O
+PV1.2.2,Text,Outpatient
+PV1.2.3,Name Of Coding System,HL70004
+PV1.3,Assigned Patient Location,
+PV1.4,Admission Type,
+PV1.5,Preadmit Number,
+PV1.6,Prior Patient Location,
+PV1.7.1,Person Identifier,1478523690
+PV1.7.2,Family Name,K
+PV1.7.3,Given Name,Carl
+PV1.7.4,Second And Further Given Names Or Initials Thereof,R
+PV1.7.5,"Suffix (e.g., Jr Or Iii)",Hope
+PV1.7.6,"Prefix (e.g., Dr)",
+PV1.7.7,"Degree (e.g., Md)",
+PV1.7.8,Source Table,
+PV1.7.9,Assigning Authority,NPPES
+PV1.7.10,Name Type Code,
+PV1.7.11,Identifier Check Digit,
+PV1.7.12,Check Digit Scheme,
+PV1.7.13,Identifier Type Code,NPI
+PV1.8,Referring Doctor,
+PV1.9,Consulting Doctor,
+PV1.10,Hospital Service,MED
+PV1.11,Temporary Location,
+PV1.12,Preadmit Test Indicator,
+PV1.13,Re-admission Indicator,
+PV1.14,Admit Source,
+PV1.15,Ambulatory Status,
+PV1.16,Vip Indicator,
+PV1.17,Admitting Doctor,
+PV1.18.1,Identifier,
+PV1.18.2,Text,New Patient
+PV1.18.3,Name Of Coding System,L
+PV1.19.1,Id Number,4
+PV1.19.2,Identifier Check Digit,
+PV1.19.3,Check Digit Scheme,
+PV1.19.4,Assigning Authority,
+PV1.19.5,Identifier Type Code,VN
+OBX.1,Set Id - Obx,1
+OBX.2,Value Type,TX
+OBX.3,Observation Identifier,Condition
+OBX.4,Observation Sub-id,2
+OBX.5,Observation Value,Diabetes mellitus without complications
+OBX.6,Units,
+OBX.7,References Range,
+OBX.8,Interpretation Codes,
+OBX.9,Probability,
+OBX.10,Nature Of Abnormal Test,
+OBX.11,Observation Result Status,F
+OBX.1,Set Id - Obx,2
+OBX.2,Value Type,TX
+OBX.3,Observation Identifier,Medication
+OBX.4,Observation Sub-id,3
+OBX.5,Observation Value,Metformin
+OBX.6,Units,
+OBX.7,References Range,
+OBX.8,Interpretation Codes,
+OBX.9,Probability,
+OBX.10,Nature Of Abnormal Test,
+OBX.11,Observation Result Status,F
+AL1.1,Set Id - Al1,1
+AL1.2,Allergen Type Code,DA
+AL1.3.1,Identifier,PEN
+AL1.3.2,Text,Penicillin
+AL1.4,Allergy Severity Code,SV
+DG1.1,Set Id - Dg1,1
+DG1.2,Diagnosis Coding Method,
+DG1.3.1,Identifier,786.50
+DG1.3.2,Text,Chest Pain
+DG1.3.3,Name Of Coding System,I10
+DG1.4,Diagnosis Description,
+DG1.5,Diagnosis Date/Time,
+DG1.6,Diagnosis Type,A
+
